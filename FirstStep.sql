@@ -13,7 +13,7 @@ CREATE TABLE user(
     age INT(3)
 );
 DESC user;
-#check all tables of current databases
+--#check all tables of current databases
 SHOW TABLES;
 
 
